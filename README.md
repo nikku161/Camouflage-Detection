@@ -1,5 +1,4 @@
-# Camouflage-Detection
-Machine learning project
+
 # Camouflage Object Detection Project
 
 This project employs Deep Learning techniques to identify and segment camouflaged objects in images. Utilizing the PyTorch library, the U-Net model is constructed to predict the location and segmentation of both naturally and artificially camouflaged objects.
